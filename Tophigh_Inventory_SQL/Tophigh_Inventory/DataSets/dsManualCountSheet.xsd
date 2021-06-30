@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsManualCountSheet" targetNamespace="http://tempuri.org/dsManualCountSheet.xsd" xmlns:mstns="http://tempuri.org/dsManualCountSheet.xsd" xmlns="http://tempuri.org/dsManualCountSheet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsManualCountSheet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsManualCountSheet" msprop:Generator_UserDSName="dsManualCountSheet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="countsheet" msprop:Generator_TableClassName="countsheetDataTable" msprop:Generator_TableVarName="tablecountsheet" msprop:Generator_TablePropName="countsheet" msprop:Generator_RowDeletingName="countsheetRowDeleting" msprop:Generator_RowChangingName="countsheetRowChanging" msprop:Generator_RowEvHandlerName="countsheetRowChangeEventHandler" msprop:Generator_RowDeletedName="countsheetRowDeleted" msprop:Generator_UserTableName="countsheet" msprop:Generator_RowChangedName="countsheetRowChanged" msprop:Generator_RowEvArgName="countsheetRowChangeEvent" msprop:Generator_RowClassName="countsheetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pro_descrip" msprop:Generator_ColumnVarNameInTable="columnpro_descrip" msprop:Generator_ColumnPropNameInRow="pro_descrip" msprop:Generator_ColumnPropNameInTable="pro_descripColumn" msprop:Generator_UserColumnName="pro_descrip" type="xs:string" minOccurs="0" />
+              <xs:element name="unit_cost" msprop:Generator_ColumnVarNameInTable="columnunit_cost" msprop:Generator_ColumnPropNameInRow="unit_cost" msprop:Generator_ColumnPropNameInTable="unit_costColumn" msprop:Generator_UserColumnName="unit_cost" type="xs:double" minOccurs="0" />
+              <xs:element name="totonpc" msprop:Generator_ColumnVarNameInTable="columntotonpc" msprop:Generator_ColumnPropNameInRow="totonpc" msprop:Generator_ColumnPropNameInTable="totonpcColumn" msprop:Generator_UserColumnName="totonpc" type="xs:short" minOccurs="0" />
+              <xs:element name="totpcscnt" msprop:Generator_ColumnVarNameInTable="columntotpcscnt" msprop:Generator_ColumnPropNameInRow="totpcscnt" msprop:Generator_ColumnPropNameInTable="totpcscntColumn" msprop:Generator_UserColumnName="totpcscnt" type="xs:short" minOccurs="0" />
+              <xs:element name="location" msprop:Generator_ColumnVarNameInTable="columnlocation" msprop:Generator_ColumnPropNameInRow="location" msprop:Generator_ColumnPropNameInTable="locationColumn" msprop:Generator_UserColumnName="location" type="xs:string" minOccurs="0" />
+              <xs:element name="count_date" msprop:Generator_ColumnVarNameInTable="columncount_date" msprop:Generator_ColumnPropNameInRow="count_date" msprop:Generator_ColumnPropNameInTable="count_dateColumn" msprop:Generator_UserColumnName="count_date" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

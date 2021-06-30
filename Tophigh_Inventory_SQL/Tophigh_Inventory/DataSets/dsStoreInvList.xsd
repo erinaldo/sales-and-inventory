@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStoreInvList" targetNamespace="http://tempuri.org/dsStoreInvList.xsd" xmlns:mstns="http://tempuri.org/dsStoreInvList.xsd" xmlns="http://tempuri.org/dsStoreInvList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStoreInvList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsStoreInvList" msprop:Generator_UserDSName="dsStoreInvList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="storelist" msprop:Generator_TableClassName="storelistDataTable" msprop:Generator_TableVarName="tablestorelist" msprop:Generator_RowChangedName="storelistRowChanged" msprop:Generator_TablePropName="storelist" msprop:Generator_RowDeletingName="storelistRowDeleting" msprop:Generator_RowChangingName="storelistRowChanging" msprop:Generator_RowEvHandlerName="storelistRowChangeEventHandler" msprop:Generator_RowDeletedName="storelistRowDeleted" msprop:Generator_RowClassName="storelistRow" msprop:Generator_UserTableName="storelist" msprop:Generator_RowEvArgName="storelistRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="bar_code" msprop:Generator_ColumnVarNameInTable="columnbar_code" msprop:Generator_ColumnPropNameInRow="bar_code" msprop:Generator_ColumnPropNameInTable="bar_codeColumn" msprop:Generator_UserColumnName="bar_code" type="xs:string" minOccurs="0" />
+              <xs:element name="pro_descrip" msprop:Generator_ColumnVarNameInTable="columnpro_descrip" msprop:Generator_ColumnPropNameInRow="pro_descrip" msprop:Generator_ColumnPropNameInTable="pro_descripColumn" msprop:Generator_UserColumnName="pro_descrip" type="xs:string" minOccurs="0" />
+              <xs:element name="sales_price" msprop:Generator_ColumnVarNameInTable="columnsales_price" msprop:Generator_ColumnPropNameInRow="sales_price" msprop:Generator_ColumnPropNameInTable="sales_priceColumn" msprop:Generator_UserColumnName="sales_price" type="xs:double" minOccurs="0" />
+              <xs:element name="pieces" msprop:Generator_ColumnVarNameInTable="columnpieces" msprop:Generator_ColumnPropNameInRow="pieces" msprop:Generator_ColumnPropNameInTable="piecesColumn" msprop:Generator_UserColumnName="pieces" type="xs:short" minOccurs="0" />
+              <xs:element name="location" msprop:Generator_ColumnVarNameInTable="columnlocation" msprop:Generator_ColumnPropNameInRow="location" msprop:Generator_ColumnPropNameInTable="locationColumn" msprop:Generator_UserColumnName="location" type="xs:string" minOccurs="0" />
+              <xs:element name="amount" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

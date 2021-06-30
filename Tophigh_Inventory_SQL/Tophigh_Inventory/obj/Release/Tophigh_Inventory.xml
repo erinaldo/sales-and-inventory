@@ -1,0 +1,2281 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tophigh_Inventory
+</name>
+</assembly>
+<members>
+<member name="T:Tophigh_Inventory.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.add_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.add_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addchartpane_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addchartpane_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addfile_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addfile_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addfile_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addfile_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addfile_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.additem_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.addnewdatasource_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.apply_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.article_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.article_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.assignto_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.assignto_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.assignto_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.assignto_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bocontact_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bocustomer_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bocustomer_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bocustomer_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bocustomer_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boemployee_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boemployee_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boemployee_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorder_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorder_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boorderitem_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.boperson_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.bosale_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.botask_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.botask_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.botask_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.botask_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.build_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.build_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.business_bank">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.business_bank1">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.buy_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.buy_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.buy_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x326">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cancel_32x327">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsrotate_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsrotate_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsshowlegend_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsshowlegend_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsshowlegend_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.chartsshowlegend_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.clearall">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.clearformatting_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.clearformatting_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cleartablestyle_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.cleartablestyle_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.clearvalidationcircles_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x326">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x327">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x328">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.close_32x329">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.closeheaderandfooter_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x164">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_16x165">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.currency_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.customer_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.customer_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.customerlocation_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.deletelist2_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.deletelist2_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.deletelist2_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.download_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.download_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.download_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.editingmergeandcentercells_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.editingmergeandcentercells_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.edittask_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.edittask_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.export_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.export_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.exporttoodt_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.exporttoodt_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.exporttopdf_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.fill_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.financial_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.financial_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.financial_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.financial_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.formatastable_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.formatnumbercurrency_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.formatnumbercurrency_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.fullshoppingcart_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.fullshoppingcart_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.general_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.general_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.group_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.group_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.group_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.group_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.hight_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.historyitem_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.historyitem_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.historyitem_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.home_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.home_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.horizontalaxislogscale_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.horizontalaxislogscale_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.info_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.insert_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.list_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listbullets_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listbullets_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listnumbers_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listnumbers_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listnumbers_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.listnumbers_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.loadfrom_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.lookup_reference_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.low_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.low_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.mergecenter_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.mergecenter_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.movepivottable_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.movepivottable_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.newconditionalformattingrule_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.newconditionalformattingrule_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.newmail_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.newmail_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.packageproduct_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.packageproduct_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.packageproduct_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.pagesetup_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.pagesetup_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.pencolor_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.previous_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.previous_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.previous_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.print_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printer_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printer_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printer_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printsortasc_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printtitles_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.printtitles_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_16x164">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.product_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.publish_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.publish_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.recurrence_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.recurrence_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x164">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x165">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_16x166">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x326">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refresh_32x327">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x325">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.refreshallpivottable_32x326">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.replace_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.report_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.reset2_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.richeditbookmark_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.richeditbookmark_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.sales_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.salesperiodlifetime_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.salesperiodlifetime_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.save_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.save_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.save_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.save_as">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveandclose">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveandclose_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveandclose_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveas">
+<summary>
+  Looks up a localized resource of type DevExpress.Utils.Svg.SvgImage.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveas_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.savedialog_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.savepagesetup_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveto_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveto_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.saveto_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.search_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showdetail_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.showtestreport_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.statistical_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.statistical_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.team_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.technology_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.tophigh_portfolio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.transit_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.trash_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.trash_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.updatefield_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_16x162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_16x163">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_16x164">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_32x321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_32x322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_32x323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.usergroup_32x324">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.warning_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.weightedpies_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.weightedpies_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.WhatsApp_Image_2021_01_16_at_04_15_58">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.WhatsApp_Image_2021_01_16_at_04_15_58__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.WhatsApp_Image_2021_01_16_at_04_15_58__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.WhatsApp_Image_2021_01_16_at_04_15_58__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.withtextwrapping_bottomcenter_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.withtextwrapping_bottomcenter_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.withtextwrapping_bottomleft_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tophigh_Inventory.My.Resources.Resources.withtextwrapping_bottomleft_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1.ware_house_tDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1.ware_house_tRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1.ware_house_tRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1TableAdapters.ware_house_tTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Tophigh_Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Tophigh_Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Tophigh_Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Tophigh_Inventory.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBalanceSheet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBalanceSheet.BalanceSheetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBalanceSheet.BalanceSheetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBalanceSheet.BalanceSheetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.company_tDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.bankDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.company_tRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.bankRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.company_tRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatement.bankRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatementTableAdapters.company_tTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.UpdateUpdatedRows(Tophigh_Inventory.dsbankstatement,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.UpdateInsertedRows(Tophigh_Inventory.dsbankstatement,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.UpdateDeletedRows(Tophigh_Inventory.dsbankstatement,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.UpdateAll(Tophigh_Inventory.dsbankstatement)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsbankstatementTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBestPro">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBestPro.best_proDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBestPro.best_proRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsBestPro.best_proRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCashFlow">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCashFlow.CashFlowDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCashFlow.CashFlowRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCashFlow.CashFlowRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsChangeEquity">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsChangeEquity.ChangeEquityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsChangeEquity.ChangeEquityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsChangeEquity.ChangeEquityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dschart">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dschart.all_sales_analysisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dschart.all_sales_analysisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dschart.all_sales_analysisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCreditStatement">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCreditStatement.CreditStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCreditStatement.CreditStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsCreditStatement.CreditStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsDebitStatement">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsDebitStatement.CreditStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsDebitStatement.CreditStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsDebitStatement.CreditStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsIncomeStatement">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsIncomeStatement.IncomeStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsIncomeStatement.IncomeStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsIncomeStatement.IncomeStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.company_tDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.valuationsummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.company_tRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.valuationsummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.company_tRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValue.valuationsummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValueTableAdapters.company_tTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.UpdateUpdatedRows(Tophigh_Inventory.dsInventValue,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.UpdateInsertedRows(Tophigh_Inventory.dsInventValue,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.UpdateDeletedRows(Tophigh_Inventory.dsInventValue,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.UpdateAll(Tophigh_Inventory.dsInventValue)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInventValueTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInvoice">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInvoice.invoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInvoice.invoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsInvoice.invoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsItemsbySup">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsItemsbySup.itemspurbysupsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsItemsbySup.itemspurbysupsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsItemsbySup.itemspurbysupsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsManualCountSheet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsManualCountSheet.countsheetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsManualCountSheet.countsheetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsManualCountSheet.countsheetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsmonts">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsmonts.monthsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsmonts.monthsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsmonts.monthsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsMyPos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsMyPos.POSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsMyPos.POSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsMyPos.POSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenBills">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenBills.GetOpenDebtorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenBills.GetOpenDebtorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenBills.GetOpenDebtorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenPO">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenPO.openposDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenPO.openposRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsOpenPO.openposRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsposPrint">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsposPrint.POSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsposPrint.POSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsposPrint.POSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProduct">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProduct.product_priceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProduct.product_priceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProduct.product_priceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProductList">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProductList.StockListingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProductList.StockListingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsProductList.StockListingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesbycustomer">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesbycustomer.salesbycustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesbycustomer.salesbycustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesbycustomer.salesbycustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesPerfbychartproduct">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesPerfbychartproduct.prefbyproductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesPerfbychartproduct.prefbyproductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSalesPerfbychartproduct.prefbyproductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStock2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStock2.store_2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStock2.store_2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStock2.store_2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStoreInvList">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStoreInvList.storelistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStoreInvList.storelistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsStoreInvList.storelistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSupInv">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSupInv.supinvDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSupInv.supinvRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsSupInv.supinvRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsTrialBal">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsTrialBal.TrialBalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsTrialBal.TrialBalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsTrialBal.TrialBalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsWarehousestockbylocation">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsWarehousestockbylocation.warelocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsWarehousestockbylocation.warelocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tophigh_Inventory.dsWarehousestockbylocation.warelocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

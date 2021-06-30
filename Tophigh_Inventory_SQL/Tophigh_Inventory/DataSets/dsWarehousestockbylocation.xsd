@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsWarehousestockbylocation" targetNamespace="http://tempuri.org/dsWarehousestockbylocation.xsd" xmlns:mstns="http://tempuri.org/dsWarehousestockbylocation.xsd" xmlns="http://tempuri.org/dsWarehousestockbylocation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsWarehousestockbylocation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsWarehousestockbylocation" msprop:Generator_UserDSName="dsWarehousestockbylocation">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="warelocation" msprop:Generator_TableClassName="warelocationDataTable" msprop:Generator_TableVarName="tablewarelocation" msprop:Generator_TablePropName="warelocation" msprop:Generator_RowDeletingName="warelocationRowDeleting" msprop:Generator_RowChangingName="warelocationRowChanging" msprop:Generator_RowEvHandlerName="warelocationRowChangeEventHandler" msprop:Generator_RowDeletedName="warelocationRowDeleted" msprop:Generator_UserTableName="warelocation" msprop:Generator_RowChangedName="warelocationRowChanged" msprop:Generator_RowEvArgName="warelocationRowChangeEvent" msprop:Generator_RowClassName="warelocationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Items" msprop:Generator_ColumnVarNameInTable="columnItems" msprop:Generator_ColumnPropNameInRow="Items" msprop:Generator_ColumnPropNameInTable="ItemsColumn" msprop:Generator_UserColumnName="Items" type="xs:string" minOccurs="0" />
+              <xs:element name="UnitCost" msprop:Generator_ColumnVarNameInTable="columnUnitCost" msprop:Generator_ColumnPropNameInRow="UnitCost" msprop:Generator_ColumnPropNameInTable="UnitCostColumn" msprop:Generator_UserColumnName="UnitCost" type="xs:double" minOccurs="0" />
+              <xs:element name="SalesPrice" msprop:Generator_ColumnVarNameInTable="columnSalesPrice" msprop:Generator_ColumnPropNameInRow="SalesPrice" msprop:Generator_ColumnPropNameInTable="SalesPriceColumn" msprop:Generator_UserColumnName="SalesPrice" type="xs:double" minOccurs="0" />
+              <xs:element name="WholesalePrice" msprop:Generator_ColumnVarNameInTable="columnWholesalePrice" msprop:Generator_ColumnPropNameInRow="WholesalePrice" msprop:Generator_ColumnPropNameInTable="WholesalePriceColumn" msprop:Generator_UserColumnName="WholesalePrice" type="xs:double" minOccurs="0" />
+              <xs:element name="Totqty" msprop:Generator_ColumnVarNameInTable="columnTotqty" msprop:Generator_ColumnPropNameInRow="Totqty" msprop:Generator_ColumnPropNameInTable="TotqtyColumn" msprop:Generator_UserColumnName="Totqty" type="xs:short" minOccurs="0" />
+              <xs:element name="Costval" msprop:Generator_ColumnVarNameInTable="columnCostval" msprop:Generator_ColumnPropNameInRow="Costval" msprop:Generator_ColumnPropNameInTable="CostvalColumn" msprop:Generator_UserColumnName="Costval" type="xs:double" minOccurs="0" />
+              <xs:element name="Salesval" msprop:Generator_ColumnVarNameInTable="columnSalesval" msprop:Generator_ColumnPropNameInRow="Salesval" msprop:Generator_ColumnPropNameInTable="SalesvalColumn" msprop:Generator_UserColumnName="Salesval" type="xs:double" minOccurs="0" />
+              <xs:element name="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" msprop:Generator_UserColumnName="Location" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

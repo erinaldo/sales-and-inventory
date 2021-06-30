@@ -1,0 +1,110 @@
+am name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:Properties/b:Direction"/>
+  </xsl:template>
+
+
+  
+
+  
+  <xsl:template name="templ_prop_EndChars" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:EndChars"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_NormalizeSpace" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:text>no</xsl:text>
+    
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_Space" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:Space"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_NonBreakingSpace" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:NonBreakingSpace"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_ListSeparator" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:ListSeparator"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_Dot" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:Dot"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_DotInitial" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:DotInitial"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_GroupSeparator" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:GroupSeparator"/>
+  </xsl:template>
+
+  
+  <xsl:template name="templ_prop_EnumSeparator" >
+    <xsl:param name="LCID" />
+    <xsl:variable name="_LCID">
+      <xsl:call-template name="localLCID">
+        <xsl:with-param name="LCID" select="$LCID"/>
+      </xsl:call-template>
+    </xsl:variable>
+    

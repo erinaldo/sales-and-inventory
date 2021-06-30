@@ -1,0 +1,87 @@
+ect="count(msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:Source/b:Author/b:Main/b:NameList/b:Person)" />
+									</xsl:variable>
+									<xsl:for-each select="msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:Source/b:Author/b:Main/b:NameList/b:Person">
+										
+										<xsl:choose>
+											<xsl:when test="position() >= 2">
+											</xsl:when>
+											<xsl:when test="position() = 1">
+												<xsl:call-template name="formatNameCore">
+													<xsl:with-param name="FML">
+														<xsl:call-template name="templ_prop_SimpleAuthor_L"/>
+													</xsl:with-param>
+													<xsl:with-param name="FM">
+														<xsl:call-template name="templ_prop_SimpleAuthor_F"/>
+													</xsl:with-param>
+													<xsl:with-param name="ML">
+														<xsl:call-template name="templ_prop_SimpleAuthor_L"/>
+													</xsl:with-param>
+													<xsl:with-param name="FL">
+														<xsl:call-template name="templ_prop_SimpleAuthor_L"/>
+													</xsl:with-param>
+													<xsl:with-param name="upperLast">no</xsl:with-param>
+													<xsl:with-param name="withDot">no</xsl:with-param>
+												</xsl:call-template>
+											</xsl:when>
+										</xsl:choose>
+									</xsl:for-each>
+									<xsl:if test = "$cAuthors > 1">
+                    <xsl:variable name="noCommaBeforeAnd">
+                      <xsl:call-template name="templ_prop_NoCommaBeforeAnd" />
+                    </xsl:variable>
+                    <xsl:choose>
+                      <xsl:when test="$noCommaBeforeAnd != 'yes'">
+                        <xsl:call-template name="templ_prop_AuthorsSeparator"/>
+                      </xsl:when>
+                      <xsl:otherwise>
+                        <xsl:call-template name="templ_prop_Space"/>
+                      </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:call-template name="templ_str_AndOthersUnCap"/>
+									</xsl:if>
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:variable>
+
+						<xsl:variable name="title">
+							<xsl:choose>
+								<xsl:when test="msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:NoTitle">
+								</xsl:when>
+								
+								<xsl:otherwise>
+									<xsl:value-of select="$title0" />
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:variable>
+
+						<xsl:variable name="year">
+							<xsl:choose>
+								<xsl:when test="msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:NoYear">
+								</xsl:when>
+								
+								<xsl:otherwise>
+									<xsl:value-of select="$year0" />
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:variable>						
+
+						<xsl:variable name="author">
+							<xsl:choose>
+								<xsl:when test="msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:NoAuthor">
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="$author0" />
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:variable>
+
+					    <xsl:variable name="prop_APA_Hyphens">
+					      <xsl:call-template name="templ_prop_Hyphens"/>
+					    </xsl:variable>
+
+						<xsl:variable name="volume" select="msxsl:node-set($ListPopulatedWithMain)/b:Citation/b:Volume"/>
+
+						<xsl:variable name="volVolume">
+							<xsl:if test="string-length($volume) > 0">
+								<xsl:call-template name="StringFormat">
+									<xsl:with-param name="f

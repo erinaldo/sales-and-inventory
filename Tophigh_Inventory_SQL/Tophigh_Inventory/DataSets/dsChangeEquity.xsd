@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsChangeEquity" targetNamespace="http://tempuri.org/dsChangeEquity.xsd" xmlns:mstns="http://tempuri.org/dsChangeEquity.xsd" xmlns="http://tempuri.org/dsChangeEquity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsChangeEquity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsChangeEquity" msprop:Generator_UserDSName="dsChangeEquity">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ChangeEquity" msprop:Generator_TableClassName="ChangeEquityDataTable" msprop:Generator_TableVarName="tableChangeEquity" msprop:Generator_TablePropName="ChangeEquity" msprop:Generator_RowDeletingName="ChangeEquityRowDeleting" msprop:Generator_RowChangingName="ChangeEquityRowChanging" msprop:Generator_RowEvHandlerName="ChangeEquityRowChangeEventHandler" msprop:Generator_RowDeletedName="ChangeEquityRowDeleted" msprop:Generator_UserTableName="ChangeEquity" msprop:Generator_RowChangedName="ChangeEquityRowChanged" msprop:Generator_RowEvArgName="ChangeEquityRowChangeEvent" msprop:Generator_RowClassName="ChangeEquityRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Accounts" msprop:Generator_ColumnVarNameInTable="columnAccounts" msprop:Generator_ColumnPropNameInRow="Accounts" msprop:Generator_ColumnPropNameInTable="AccountsColumn" msprop:Generator_UserColumnName="Accounts" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
